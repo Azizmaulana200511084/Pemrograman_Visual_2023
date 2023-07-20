@@ -2,7 +2,7 @@
 
 # Nama  : Aziz Maulana
 # Nim     : 200511084
-# Kelas  : R4 TI20D
+# Kelas   : R4 TI20D
 # Tugas Besar Pemrograman Visual 2023 VBNET
 
 # LINK YOUTUBE : https://youtu.be/3fuKM_Hor_c
